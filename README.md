@@ -1,5 +1,7 @@
 # Swift Radio
 
+#note from jb, as a fun, side-project/favor for my old job, I dabbled with this branch updating a few minor things, and making a customizattion guide, as well as updating the Swift code for the latest version (simple edits); Swift is not an active project of mine 
+
 Swift Radio is an open source radio station app with robust and professional features. This is a fully realized Radio App built entirely in Swift. **Master is now the Xcode 9.0/Swift 4 branch**. Note there is an AVPlayer branch [here](https://github.com/swiftcodex/Swift-Radio-Pro/tree/xcode8).
 
 There are over 80 different apps accepted to the app store using this code!
